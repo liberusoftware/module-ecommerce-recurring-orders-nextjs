@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-recurring-orders-nextjs",
+  "capabilityKey": "planned:ecommerce:recurring-orders",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-recurring-orders-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/recurring-orders.md",
+  "presentationPlan": "projects/ecommerce/nextjs/recurring-orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
